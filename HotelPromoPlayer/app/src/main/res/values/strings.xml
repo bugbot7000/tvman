@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Hotel Promo Player</string>
-    <string name="select_file">Select Video File</string>
-    <string name="launch_on_boot">Launch on boot</string>
-    <string name="retry_download">Retry Download</string>
-</resources>
